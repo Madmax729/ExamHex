@@ -19,7 +19,7 @@ function Home() {
             <h1 className="text-6xl font-bold tracking-tight text-gray-900 mb-6 mt-30">
               The standard for
               <br />
-              exam security
+              Exam security
             </h1>
             <p className="text-xl text-gray-600 mb-8">
               SecureExam is defining how institutions protect and manage their examination papers.
